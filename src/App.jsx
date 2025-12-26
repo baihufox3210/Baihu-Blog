@@ -6,8 +6,8 @@ function App() {
     <div className="index">
       <div className="container">
         <Header />
+        <h1>Home</h1>
       </div>
-      <h1>Home</h1>
     </div>
   )
 }
